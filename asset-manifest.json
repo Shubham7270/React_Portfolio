@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio/static/css/main.8049a4f0.css",
+    "main.js": "/React_Portfolio/static/js/main.1a7fe508.js",
+    "static/media/about .jpg": "/React_Portfolio/static/media/about .5f91e4a4a437948fbaf4.jpg",
+    "static/media/profile.jpg": "/React_Portfolio/static/media/profile.5f91e4a4a437948fbaf4.jpg",
+    "static/media/Shubham-Mahamuni.pdf": "/React_Portfolio/static/media/Shubham-Mahamuni.42c1eb9f115f7d5b1ca9.pdf",
+    "index.html": "/React_Portfolio/index.html",
+    "main.8049a4f0.css.map": "/React_Portfolio/static/css/main.8049a4f0.css.map",
+    "main.1a7fe508.js.map": "/React_Portfolio/static/js/main.1a7fe508.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8049a4f0.css",
+    "static/js/main.1a7fe508.js"
+  ]
+}
